@@ -4,8 +4,8 @@ body {
 }
 
 .header, .footer {
-  background-color: blue;
-  color: white;
+  background-color: black;
+  color: red;
   padding: 15px;
   text-align: center;
 }
@@ -45,10 +45,10 @@ body {
 .item li {
   margin-bottom: 8px;
   padding: 8px;
-  background-color: blue;
+  background-color: red;
   color: white;
 }
 
 .item li:hover {
-  background-color: green;
+  background-color: grey;
 }
