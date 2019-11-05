@@ -1,0 +1,9 @@
+language: generic
+script:
+  - echo "step1"
+  - echo "step2"
+deploy:
+  provider: pages
+  github token: $09f1cc424b560be4ccc63f6b56c94a9c35ccc964
+  on:
+    branch: master
