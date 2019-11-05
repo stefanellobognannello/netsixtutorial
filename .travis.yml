@@ -6,4 +6,4 @@ deploy:
   provider: pages
   github token: $GITHUB_TOKEN
   on:
-    branch: master
+     branch: master
